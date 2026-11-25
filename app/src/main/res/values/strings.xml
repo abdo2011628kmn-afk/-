@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">اقفل وذاكر</string>
+    <string name="accessibility_description">يكتشف التطبيق المفتوح أثناء جلسة التركيز ويعرض شاشة تذكير للتطبيقات التي اخترت حجبها.</string>
+</resources>
